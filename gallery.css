@@ -1,0 +1,33 @@
+.bg-model {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow:scroll;
+}
+.model-content{
+    
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.desk{
+    background-image: url(files/headapplied_semi.jpg);
+    background-size:100% ;
+    background-repeat: no-repeat;
+    min-height:800px;
+    background-position-y: top -50px;
+}
+
+.mob{
+    background-image: url(files/headappliedMOB.jpg);
+    background-size:100% ;
+    background-repeat: no-repeat;
+    min-height:800px;
+
+}
